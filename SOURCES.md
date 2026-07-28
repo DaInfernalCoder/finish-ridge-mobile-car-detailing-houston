@@ -12,4 +12,4 @@ All photographs are licensed Pexels stock used under the [Pexels license](https:
 - `detail-pressure.jpg`: https://www.pexels.com/photo/car-washing-with-soap-and-pressure-washer-4876676/
 - `detail-glass.jpg`: https://www.pexels.com/photo/cleaning-of-car-window-4870706/
 
-The Finish Ridge cooling-line logo is an original SVG created for this site. Barlow Condensed and Manrope are used under their Google Fonts open licenses: https://fonts.google.com/
+The Finish Ridge condition-profile logo is an original SVG created for this site. Barlow Condensed and Manrope are used under their Google Fonts open licenses: https://fonts.google.com/
