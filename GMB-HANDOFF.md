@@ -37,8 +37,12 @@ Finish Ridge Mobile Car Detailing Houston helps Houston drivers arrange careful 
 
 ## Blocker
 
-Phone and address are required for final call links and GMB completion.
+The environment requires Sumit's explicit approval to publish this repository publicly and deploy its source to Vercel. Phone and address are required later for final call links and GMB completion.
+
+## Current state
+
+The registered domain, high privacy, and auto-renew-off settings are verified. Static and browser QA pass at desktop, tablet, and phone widths. The local `main` commit is ready. No GitHub repository, Vercel project, or DNS change exists yet.
 
 ## Exact next action
 
-Complete local QA, then continue automatically through publication, deployment, and DNS.
+After explicit external-publication confirmation, create the public GitHub repository, deploy through the GitHub-connected Vercel workflow, attach apex and `www`, then save registrar DNS.
