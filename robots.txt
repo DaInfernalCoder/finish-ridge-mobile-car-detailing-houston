@@ -13,4 +13,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://finishridge.shop/sitemap.xml
+Sitemap: https://woodlandscardetailingco.shop/sitemap.xml

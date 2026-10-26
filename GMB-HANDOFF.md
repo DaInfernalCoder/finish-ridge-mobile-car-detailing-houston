@@ -8,7 +8,7 @@ Create and launch Finish Ridge Mobile Car Detailing Houston as site 42 of the 10
 
 - Service: Mobile Car Detailing
 - Market: Houston, Texas
-- Registered domain: `finishridge.shop`
+- Registered domain: `woodlandscardetailingco.shop`
 - Public phone: `+1 346-594-5805`
 - Street address: `27220 Glen Loch Dr, The Woodlands, TX 77381`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
@@ -50,7 +50,7 @@ The registered domain, high privacy, and auto-renew-off settings are verified. S
 
 ## Production links
 
-- Custom domain: https://finishridge.shop
+- Custom domain: https://woodlandscardetailingco.shop
 - Stable fallback: https://finish-ridge-mobile-car-detailing-h.vercel.app
 - GitHub: https://github.com/DaInfernalCoder/finish-ridge-mobile-car-detailing-houston
 - Vercel: https://vercel.com/dainfernalcoders-projects/finish-ridge-mobile-car-detailing-houston

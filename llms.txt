@@ -3,9 +3,9 @@
 > Appointment-based mobile car detailing in The Woodlands, Texas.
 
 ## Primary pages
-- [Homepage](https://finishridge.shop/): Business, service, pricing, process, and contact information.
-- [Services](https://finishridge.shop/#services): Interior, exterior, and complete vehicle detailing options.
-- [Local service information](https://finishridge.shop/#local-detailing): How mobile detailing works in The Woodlands.
+- [Homepage](https://woodlandscardetailingco.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://woodlandscardetailingco.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://woodlandscardetailingco.shop/#local-detailing): How mobile detailing works in The Woodlands.
 
 ## Verified business facts
 - Business name: Finish Ridge Mobile Car Detailing Houston
@@ -17,11 +17,11 @@
 
 <!-- SEO-NEXT:START -->
 ## Expanded pages
-- [Services](https://finishridge.shop/services/)
-- [Interior Car Detailing](https://finishridge.shop/services/interior-car-detailing/)
-- [Exterior Car Detailing](https://finishridge.shop/services/exterior-car-detailing/)
-- [Mobile Car Wash](https://finishridge.shop/services/mobile-car-wash/)
-- [Headlight Restoration & Polishing](https://finishridge.shop/services/headlight-restoration/)
-- [About](https://finishridge.shop/about/)
-- [Contact](https://finishridge.shop/contact/)
+- [Services](https://woodlandscardetailingco.shop/services/)
+- [Interior Car Detailing](https://woodlandscardetailingco.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://woodlandscardetailingco.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://woodlandscardetailingco.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://woodlandscardetailingco.shop/services/headlight-restoration/)
+- [About](https://woodlandscardetailingco.shop/about/)
+- [Contact](https://woodlandscardetailingco.shop/contact/)
 <!-- SEO-NEXT:END -->
